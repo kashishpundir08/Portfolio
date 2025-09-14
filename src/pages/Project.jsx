@@ -23,8 +23,8 @@ const projects = [
   {
     title: "Portfolio Website",
     description: "A responsive personal portfolio showcasing my skills, projects, and contact information.",
-    github: "#",
-    live: "#",
+    github: "https://github.com/kashishpundir08/Portfolio",
+    live: "https://vercel.com/kashish-pundirs-projects/portfolio",
   },
   // {
   //   title: "Todo App",
