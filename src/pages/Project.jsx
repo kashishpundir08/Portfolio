@@ -5,7 +5,7 @@ const projects = [
   {
     title: "Blog Project",
     description: "A blog platform built with React & Tailwind where you can share your thoughts and writings.",
-    github: "#", // <-- replace with actual
+    github: "https://github.com/kashishpundir08/Blog", // <-- replace with actual
     live: "#", // <-- add Vercel link later
   },
   {
